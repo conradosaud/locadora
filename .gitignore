@@ -1,0 +1,23 @@
+# Nuxt.js
+.nuxt/
+dist/
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor
+*.swp
+*.swo
+*.sublime-workspace
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
